@@ -1,3 +1,10 @@
+<!--
+  Title: DOOM Fire Animated Wallpaper
+  Description: Animated fire effect wallpaper inspired from  DOOM (1993) for Arch Linux.
+  Keywords: DOOM, fire wallpaper, animated wallpaper, gaming desktop, Arch, Hyprland, Wayland, live, background, retro, 1337
+-->
+
+
 # DOOM-style fire wallpaper for Hyprpaper
 
 Animated [Doom fire effect](https://fabiensanglard.net/doom_fire_psx/) as a dynamic wallpaper for [Hyprpaper](https://github.com/hyprwm/hyprpaper) on Linux built with Rust.
